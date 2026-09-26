@@ -1,0 +1,29 @@
+Mã id setting : #FFHUDT6O3jlC4ifZPo7eP , #FFHUDT6O3jlC4ifZPo7eO , #FFHUDT6O3jlC4ifZPo7eO
+Do nhay full 0
+Bat dau dưng : Ctrl
+Đình chỉ X
+
+Tính Chất
+
+X 82.37
+y 42.19
+
+Độ nhạy chuột X : 2.59
+độ nhạy chuột y : 1.55
+
+Tinh chỉnh  21058
+Tăng tốc chuột : Falese
+
+
+Kích hoạt bằng cách bấm chuột trái ( Bật )
+Hành động X : 80.13
+Hành động Y : 57.37
+
+
+Nhìn xung quanh 
+Vị trí tự do X : âm 1
+Vị trí nhìn tự do Y : âm 1
+
+Hiển thị bàn phím trên màn hình ( Bật ) 
+
+
